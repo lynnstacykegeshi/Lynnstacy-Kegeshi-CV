@@ -1,63 +1,65 @@
 baseURL: http://example.org/
 languageCode: en-us
-theme: sada
+theme: lynnstacy
 disableKinds:
   - taxonomy
   - taxonomyTerm
 params:
   aboutme:
-    description: Tagline. Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-      sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-      minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-      commodo consequat.
+    description: Highly organized and detail-oriented student at the University of Nairobi. I love working with data and numbers. I am a member of the Instute and Faculty of Actuaries(IFOA) and I am also dedicated to doing the actuarial papers in order to become a certified actuary.I am creative, a teamworker and dependable; a great addition to any team. 
   author: Darshan Baral
   copyright: Custom copyright message
-  description: Simple portfolio theme
+  description: About me
   education:
     list:
-      - college: University Number 1
-        dates: 2016 - 2018
-        degree: Masters in Degree 1
-        thesis_link: '#'
-        thesis_title: Title of the dissertation
-      - college: University Number 2
-        dates: 2010 - 2014
-        degree: Bachelors in Degree 2
+    
+      - college: Bachelor's of Science in Actuarial Science
+        dates: 2019-Expected graduation 2023
+        degree: The University of Nairobi
+        
+      - college: Graduated with an A- of 78 points
+        dates: 2015 - 2018
+        degree: The Maryhill Girls Highschool Thika
+      - college: Graduated with 411 marks
+        dates: 2005 - 2014
+        degree: Good Hope Academy Serem
     title: Education
   experiences:
     title: Experiences
   hobbies:
     list:
-      - interest: Travelling
-      - interest: Music
-      - interest: Flying
-      - interest: Baking
+      - interest: Reading and writing
+      - interest: French Films
+      - interest: Digital marketing
+      - interest: Crochet
     title: Hobbies
   jobs:
     list:
       - company: Company name 1
         dates: 2018 - *Present*
-        link: '#'
+        details: Brief d
         position: Job Number 1
-      - company: Company name 2
+      - position: Job Number 2
+        company: Company name 2
         dates: 2016 - 2018
         details: Brief description of the `work` done. Lorem ipsum dolor sit amet,
           consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore
           et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation
           ullamco laboris nisi ut aliquip ex ea commodo consequat.
-        link: '#'
-        position: Job Number 2
+        
   language:
     list:
       - language: English
         level: Fluent
-      - language: Bird
+      - language: Swahili
+        level: Fluent
+      - language: French
         level: Basic
     title: Languages
-  name: example.org
+  name: Personal CV
   profile:
-    name: Sada Theme
-    photo: images/profile.jpg
+    name: Lynnstacy Kegeshi
+    photo: images/puurple.PNG
   projects:
     list:
       - description: Description of the *awesome* project 1
@@ -72,28 +74,24 @@ params:
     title: Projects
   skills:
     list:
-      - skill: Skill 1, Skill 2
+      - skill: Microsoft; Excel, Word, Power Point, Outlook
+        skillrating: 99
+      - skill: G-Suite; Docs, Forms, Google drive, Google sheets
         skillrating: 95
-      - skill: Skill 3
-        skillrating: 90
-      - skill: Skill 4
+      - skill: Programming and data analysis; R
+        skillrating: 85
+      - skill: Latex
         skillrating: 80
     title: Skills
   social:
     list:
       - icon: fab fa-linkedin-in
         title: LinkedIn
-        url: '#'
+        url: 'https://ke.linkedin.com/in/lynnstacy-kegeshi-b56985235?trk=public_profile_browsemap'
       - icon: fab fa-github
         title: GitHub
-        url: '#'
-      - icon: ai ai-google-scholar
-        title: Google Scholar
-        url: '#'
-      - icon: ai ai-researchgate
-        title: ResearchGate
-        url: '#'
+        url: 'https://github.com/lynnstacykegeshi'
     title: Links
-  theme: light
+  theme: dark
   title: Sada Theme
   useResources: no
