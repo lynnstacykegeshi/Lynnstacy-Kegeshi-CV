@@ -1,6 +1,6 @@
 baseURL: http://example.org/
 languageCode: en-us
-theme: lynnstacy
+theme: sada
 disableKinds:
   - taxonomy
   - taxonomyTerm
@@ -56,7 +56,7 @@ params:
       - language: French
         level: Basic
     title: Languages
-  name: Personal CV
+  name: http://example.org/
   profile:
     name: Lynnstacy Kegeshi
     photo: images/puurple.PNG
