@@ -35,11 +35,11 @@ params:
     title: Hobbies
   jobs:
     list:
-      - company: Company name 1
-        dates: 2018 - *Present*
-        details: Brief d
-        position: Job Number 1
-      - position: Job Number 2
+      - company: Attachee 
+        dates: June 2022-Sept 2022
+        details: I interned at the department of Strategy and Planning and during my time at REREC, I was exposed to projects data compilation, project documentation among other duties and responsibilities.I was also exposed to computer systems, for example SAP. 
+        position: Rural Electrification and Renewable Energy Cooperation(REREC)
+      - position: Job Number 
         company: Company name 2
         dates: 2016 - 2018
         details: Brief description of the `work` done. Lorem ipsum dolor sit amet,
